@@ -1,0 +1,30 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - SDCycleScrollView (1.82):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - SDCycleScrollView
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+    - SDCycleScrollView
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SDCycleScrollView: a0d74c3384caa72bdfc81470bdbc8c14b3e1fbcf
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: b2a86c323189d50a6aebd4821b057b0fd2443743
+
+COCOAPODS: 1.10.0

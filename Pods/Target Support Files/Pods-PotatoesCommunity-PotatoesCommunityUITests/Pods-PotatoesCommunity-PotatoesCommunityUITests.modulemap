@@ -1,0 +1,6 @@
+framework module Pods_PotatoesCommunity_PotatoesCommunityUITests {
+  umbrella header "Pods-PotatoesCommunity-PotatoesCommunityUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
